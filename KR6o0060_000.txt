@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 止觀門論頌
+#+DATE: 2015-08-30 21:00:17.721813
+#+PROPERTY: JUAN 0
