@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:17.542751
+#+DATE: 2015-08-30 21:00:18.687860
 #+TITLE: 止觀門論頌
 #+PROPERTY: CBETA_ID T32n1655
 #+PROPERTY: ID KR6o0060
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1655
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0060_T_000-0491b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0060_T_001-0491b> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1655¶
-
- 止觀門論頌一卷¶
+No. 1655¶
+止觀門論頌一卷¶
 ¶
 世親菩薩造¶
 三藏法師義淨奉　詔譯¶
@@ -26,7 +25,7 @@ No.1655¶
 　愚人不了知
 　妄生婬染意¶
 　佛說膖脹等
-　蠲除婬欲念¶
+　觸除婬欲念¶
 　能隨世尊教
 　得勝果非餘¶
 　戒淨有聞思
@@ -66,7 +65,7 @@ No.1655¶
 　此皆須遠離¶
 　惱亂緣來逼
 　慧力應須忍¶
-　樹下草𧂐中
+　樹下草[卄/積]中
 　或居崖窟內¶
 　觀時應住此
 　寂靜可修心¶
