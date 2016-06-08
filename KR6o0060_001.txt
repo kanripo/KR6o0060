@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:17.542751
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:54
 #+TITLE: 止觀門論頌
 #+PROPERTY: CBETA_ID T32n1655
 #+PROPERTY: ID KR6o0060
@@ -333,7 +333,7 @@ No.1655¶
 　剃髮著袈裟
 　宜應修聖道¶
 　自餘諠雜事
-　咸為生死因
+　咸為生死因」
 #+END_VERSE
-」¶
+¶
 止觀行門七十頌
